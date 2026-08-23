@@ -6,6 +6,8 @@
 
 Task 02 of the Prodigy InfoTech Machine Learning internship: group retail customers into segments using K-means clustering, based on their purchase history.
 
+An interactive Streamlit demo (`app.py`) fits the model live, visualizes the 5 segments, and classifies a new customer you enter — deployable in one click via [share.streamlit.io](https://share.streamlit.io) (point it at `app.py`).
+
 ## Overview
 
 Using the [Mall Customer Segmentation](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python) dataset (200 customers), this project explores age, annual income, and spending score, then applies K-means clustering — selecting the number of clusters via the elbow method — to identify distinct customer segments a retail business can target with different strategies.
@@ -29,10 +31,17 @@ pip install -r requirements.txt
 ```
 
 ### Usage
+
+Interactive app:
+```bash
+streamlit run app.py
+```
+
+Original analysis notebook:
 ```bash
 jupyter notebook Clustering_Algorithm.ipynb
 ```
-The notebook expects `data/Mall_Customers.csv`.
+The notebook expects `data/Mall_Customers.csv`. A [static rendering](https://bosaj.github.io/PRODIGY_ML_02/) of its outputs is also published via GitHub Pages.
 
 ## Testing / CI
 
@@ -44,6 +53,7 @@ The notebook expects `data/Mall_Customers.csv`.
 PRODIGY_ML_02/
 ├── data/
 │   └── Mall_Customers.csv
+├── app.py                      # Interactive Streamlit demo
 ├── Clustering_Algorithm.ipynb
 └── requirements.txt
 ```
