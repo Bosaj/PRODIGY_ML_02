@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software or research code, please cite it as below."
+authors:
+  - family-names: "EL HADJI"
+    given-names: "Oussama"
+    orcid: ""
+title: "Customer Segmentation & Unsupervised Clustering"
+version: 1.0.0
+date-released: 2026-09-20
+url: "https://github.com/Bosaj/PRODIGY_ML_02"
+abstract: "K-Means and hierarchical clustering pipeline for retail consumer segmentation."
+keywords:
+  - machine-learning
+  - deep-learning
+  - data-science
+  - python
+license: MIT
