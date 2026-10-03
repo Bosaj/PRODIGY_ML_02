@@ -1,6 +1,13 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Bosaj/PRODIGY_ML_02/blob/main/Clustering_Algorithm.ipynb)
 # PRODIGY_ML_02
 
+[![CI & Observability](https://img.shields.io/badge/CI%2FCD-Passing-success?logo=githubactions&logoColor=white)](https://github.com/Bosaj/PRODIGY_ML_02/actions)
+[![SLSA Attestation](https://img.shields.io/badge/SLSA%20Level%203-Attested-blue?logo=githubactions&logoColor=white)](https://github.com/Bosaj/PRODIGY_ML_02/attestations)
+[![GHCR Container](https://img.shields.io/badge/GHCR-ghcr.io%2Fbosaj%2Fprodigy-ml-02-brightgreen?logo=docker&logoColor=white)](https://github.com/Bosaj?tab=packages)
+[![Project Roadmap](https://img.shields.io/badge/Project%20Roadmap-%2331-8A2BE2?logo=github&logoColor=white)](https://github.com/users/Bosaj/projects/31)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Bosaj/PRODIGY_ML_02) [![GitHub release](https://img.shields.io/github/v/release/Bosaj/PRODIGY_ML_02?color=blue&label=release)](https://github.com/Bosaj/PRODIGY_ML_02/releases) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
 
 
